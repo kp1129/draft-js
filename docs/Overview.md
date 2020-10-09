@@ -37,8 +37,6 @@ Learn more about [using a shim with Draft](/docs/advanced-topics-issues-and-pitf
 Before getting started, please be aware that we recently changed the API of
 Entity storage in Draft. The latest version, `v0.10.0`, supports both the old
 and new API. Following that up will be `v0.11.0` which will remove the old API.
-If you are interested in helping out, or tracking the progress, please follow
-[issue 839](https://github.com/facebook/draft-js/issues/839).
 
 ## Usage
 
